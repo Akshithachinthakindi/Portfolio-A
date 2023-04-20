@@ -5,7 +5,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import HomeMYImg from "../../Assets/Projects/HomeMYImg.png";
 // import Tilt from "react-parallax-tilt";
 import {
-  AiFillGithub,
+  AiFillGithub, AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -83,6 +83,19 @@ function Home2() {
                 </a>
               </li>
             </ul>
+            {/* <li className="social-icons">
+                <a
+                  href="/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillMail />
+                </a> &nbsp;
+                <b>
+                <i className="purple">- chinthakindiakshitha@gmail.com</i>
+                </b>
+              </li> */}
           </Col>
         </Row>
       </Container>
