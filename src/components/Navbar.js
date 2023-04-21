@@ -85,7 +85,7 @@ function NavBar() {
                 // as={Link}
                 // to="https://drive.google.com/file/d/1iX6aYdHTdr-mFDdk6A8yU5NNwbFlDd3O/view?usp=sharing"
                 // onClick={() => updateExpanded(false)}
-                href="https://drive.google.com/file/d/1iX6aYdHTdr-mFDdk6A8yU5NNwbFlDd3O/view?usp=sharing"
+                href="https://drive.google.com/file/d/1mLMz8cwitOaqitgJR_ejWy2MkCgW04fV/view?usp=sharing"
                 target="_blank"
                 onClick={() => updateExpanded(false)}
               >
